@@ -81,4 +81,4 @@ ON:
 <img src="https://github.com/user-attachments/assets/745b2a10-5fa6-41e6-9f6c-770670ecac45" width="600" height = "500" />
 
 ## RESULT
-Designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
+The project designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
